@@ -1,0 +1,131 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
+}
+
+header {
+  background-color: black;
+  text-align: center;
+  height: 100px;
+  padding-top: 20px;
+}
+
+nav {
+  margin-top: 10px;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+  margin: 100px;
+}
+
+a:houver {
+  color: rgba(16, 144, 230, 0.781);
+}
+
+section {
+  text-align: center;
+}
+
+.logoprime {
+  height: 79vh;
+  width: 100%;
+  border: solid 1px black;
+  text-align: center;
+}
+
+.logo {
+  width: 100%;
+}
+
+.seta1 {
+  border: solid 1px white;
+  text-align: center;
+}
+
+div {
+  width: 300px;
+  height: 360px;
+  text-align: center;
+  display: inline-block;
+  margin: 30px;
+  padding: 10px;
+}
+
+div:hover {
+  color: rgba(16, 144, 230, 0.781);
+}
+
+.seta2 {
+  border: solid 1px white;
+  text-align: center;
+}
+
+.seta2img {
+  width: 5vw;
+  margin-bottom: 120px;
+}
+
+img {
+  width: 250px;
+  border: solid 1px white;
+}
+
+.seta1img {
+  width: 5vw;
+  margin-bottom: 120px;
+}
+
+.seta3 {
+  border: solid 1px white;
+  text-align: center;
+}
+
+.seta3img {
+  width: 5vw;
+  margin-bottom: 120px;
+}
+
+.seta4 {
+  border: solid 1px white;
+  text-align: center;
+}
+
+.seta4img {
+  width: 5vw;
+  margin-bottom: 120px;
+}
+
+footer {
+  background-color: black;
+  height: 10vh;
+  padding-top: 1px;
+  text-align: center;
+}
+
+p {
+  color: white;
+  display: inline-block;
+  text-align: center;
+  padding-top: 20px;
+}
+
+.redesocial {
+  display: inline-block;
+  border: solid 1px;
+  width: 10vw;
+  margin-left: 20px;
+  height: 60px;
+  padding-top: 10px;
+  float: right;
+}
+
+.redesocialimg {
+  width: 3vw;
+  float: left;
+}
+
+
